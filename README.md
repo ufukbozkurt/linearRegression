@@ -1,4 +1,4 @@
-Linear Regression
+## Linear Regression
 
 Multiple Linear Regression, written in C++. It includes very simple example data under "data" folder. 
 Every row in "data/train.txt" is an input vector and the last column of the input vectors are desired outputs. 
